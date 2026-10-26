@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="To-Do List App - Expo Go, Supabase e NTFY" width="100%">
+</p>
+
 # To-Do List — Expo Go + Supabase + NTFY
 
 ## 1. Criar o projeto e instalar dependências
